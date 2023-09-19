@@ -21,7 +21,6 @@ C:\Users\yhosseinzade\source\repos\WinFormsAppRegister\WinFormsAppRegister\bin\D
 C:\Users\yhosseinzade\source\repos\WinFormsAppRegister\WinFormsAppRegister\bin\Debug\net7.0-windows\WinFormsAppRegister.dll
 C:\Users\yhosseinzade\source\repos\WinFormsAppRegister\WinFormsAppRegister\bin\Debug\net7.0-windows\WinFormsAppRegister.pdb
 C:\Users\yhosseinzade\source\repos\WinFormsAppRegister\WinFormsAppRegister\obj\Debug\net7.0-windows\WinFormsAppRegister.csproj.AssemblyReference.cache
-C:\Users\yhosseinzade\source\repos\WinFormsAppRegister\WinFormsAppRegister\obj\Debug\net7.0-windows\WinFormsAppRegister.Form1.resources
 C:\Users\yhosseinzade\source\repos\WinFormsAppRegister\WinFormsAppRegister\obj\Debug\net7.0-windows\WinFormsAppRegister.csproj.GenerateResource.cache
 C:\Users\yhosseinzade\source\repos\WinFormsAppRegister\WinFormsAppRegister\obj\Debug\net7.0-windows\WinFormsAppRegister.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\yhosseinzade\source\repos\WinFormsAppRegister\WinFormsAppRegister\obj\Debug\net7.0-windows\WinFormsAppRegister.AssemblyInfoInputs.cache
@@ -32,3 +31,4 @@ C:\Users\yhosseinzade\source\repos\WinFormsAppRegister\WinFormsAppRegister\obj\D
 C:\Users\yhosseinzade\source\repos\WinFormsAppRegister\WinFormsAppRegister\obj\Debug\net7.0-windows\WinFormsAppRegister.pdb
 C:\Users\yhosseinzade\source\repos\WinFormsAppRegister\WinFormsAppRegister\obj\Debug\net7.0-windows\WinFormsAppRegister.genruntimeconfig.cache
 C:\Users\yhosseinzade\source\repos\WinFormsAppRegister\WinFormsAppRegister\obj\Debug\net7.0-windows\ref\WinFormsAppRegister.dll
+C:\Users\yhosseinzade\source\repos\WinFormsAppRegister\WinFormsAppRegister\obj\Debug\net7.0-windows\WinFormsAppRegister.RegisterForm.resources
